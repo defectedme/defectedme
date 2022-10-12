@@ -5,7 +5,7 @@
 - 📫 How to reach me GitHub, Linkedin, Email
 
   while(no job-no experience-no job)
-      print("How to break the")
+      print("How to break the loop")
       break;
 
 <!---
